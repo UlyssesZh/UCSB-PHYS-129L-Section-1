@@ -1,1 +1,11 @@
-some readme
+Q: After you push the feature branch, merge the feature branch with the
+main branch locally, and push to the remote. What do you see locally and
+remotely on github?
+
+A: All 4 branches (the two local branches and the two remote branches) have the same commit history.
+
+Q: Modify the text in readme file from ”hello world!” to ”hello world from
+remote!” on github manually, and pull from the remote origin. Do you
+see the update?
+
+A: Yes.
